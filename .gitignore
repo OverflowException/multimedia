@@ -1,0 +1,13 @@
+#Data and log files
+*.data
+*.log
+
+#Images
+*.png
+*.jpg
+
+#Videos
+*.avi
+
+#Temp files
+*~
